@@ -9,10 +9,10 @@ def otp(to_email):
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
 
-    username = "saivardhan@codegnan.com"
-    password = "gszv pyve utdt kqsd"
+    username = "varshareddy1645@gmail.com"
+    password = "iqcz ngku data eugr"
 
-    from_email = "saivardhan@codegnan.com"
+    from_email = "varshareddy1645@gmail.com"
     subject = "OTP for Verification"
     body = f"The OPT for Verirfication is {otp}"
 
